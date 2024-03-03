@@ -1,0 +1,18 @@
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Namespace-Dll-Static -Extation.exe
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Namespace-Dll-Static -Extation.deps.json
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Namespace-Dll-Static -Extation.runtimeconfig.json
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Namespace-Dll-Static -Extation.dll
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Namespace-Dll-Static -Extation.pdb
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.AssemblyInfoInputs.cache
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.AssemblyInfo.cs
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.csproj.CoreCompileInputs.cache
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.dll
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\refint\Namespace-Dll-Static -Extation.dll
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.pdb
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.genruntimeconfig.cache
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\ref\Namespace-Dll-Static -Extation.dll
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Services.dll
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\bin\Debug\net6.0\Services.pdb
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.csproj.AssemblyReference.cache
+C:\C#\Namespace-Dll-Static -Extation\Namespace-Dll-Static -Extation\obj\Debug\net6.0\Namespace-Dll-Static -Extation.csproj.CopyComplete
